@@ -1,0 +1,82 @@
+.shapka{
+  border: 50px solid #000;  
+}
+.h1{
+    font-size: 28px;
+}   
+.border1{
+    border: 10px solid #000;
+    height: 50%;
+    width: 25%;
+ 
+    background-color: rgb(0, 0, 0);
+    color:azure;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+}
+.border2{
+    border: 1px solid #fefdfd;
+    height: 100px;
+    background-color: white ;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+.long{
+border: 10px double black;
+
+}
+
+.conteyner{
+    display: flex;
+    justify-content:  right;
+
+}
+
+.button{
+    border: 25px solid rgb(7, 7, 7);
+    background-color: white;
+    display: flex;
+}
+
+.bt1{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 10px;
+    right: 400px;
+    height: 10px;
+    border-radius: 10px;
+}
+.bt2{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 10px;
+    right: 300px;
+    height: 10px;
+    border-radius: 10px;
+}
+
+.bt3{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 10px;
+    right:200px;
+    height: 10px;
+    border-radius: 10px;
+}
+
+.bt4{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 10px;
+    right:100px;
+    height: 10px;
+    border-radius: 10px;
+}
